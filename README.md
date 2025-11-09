@@ -1,16 +1,16 @@
-## EXERCICIO 1
+## EXERCICIO 1 - SistemaProcessamentoDeDados
 
 **Justificativa:**
 > 
 
-## EXERCICIO 2
+## EXERCICIO 2 - SistemaBancario
 **Justificativa:**
 >
 
-## EXERCICIO 3
+## EXERCICIO 3 - SistemaUsinaNuclear
 **Justificativa:**
 >
 
-## EXERCICIO 4
+## EXERCICIO 4 - SistemaValidacaoDocumentos
 **Justificativa:**
 > 
