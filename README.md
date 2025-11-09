@@ -1,28 +1,28 @@
 ## EXERCICIO 1 - SistemaProcessamentoDeDados
 
 **Padrão Usado:**
-> Strategy
+- Strategy
 
 **Justificativa:**
-> 
+- 
 
 ## EXERCICIO 2 - SistemaBancario
 **Padrão Usado:**
-> Adapter
+- Adapter
 
 **Justificativa:**
->
+-
 
 ## EXERCICIO 3 - SistemaUsinaNuclear
 **Padrão Usado:**
-> State
+- State
 
 **Justificativa:**
->
+-
 
 ## EXERCICIO 4 - SistemaValidacaoDocumentos
 **Padrão Usado:**
-> Chain of Responsability
+- Chain of Responsability
 
 **Justificativa:**
-> 
+- 
