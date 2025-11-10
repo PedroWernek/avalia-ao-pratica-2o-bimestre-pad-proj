@@ -21,7 +21,12 @@ então o padrão Adapter nos permite fazer isso sem problemas.
 - State
 
 **Justificativa:**
--
+- Nesse exercício foi pedido uma forma de se controlar o Estado de uma usina nuclar
+e o padrão State permite esse controle, dando aos estados acesso ao Objeto de usina
+e mudando de acordo com a temperatura da usina, esse padrão permite que eu mude de
+forma dinâmica os estados do objeto de Usina utilizando a assinatura de uma interface
+de estado dentro de uma classe que recebe esse estado. Sendo ideal para resolver esse
+exercício.
 
 ## EXERCICIO 4 - SistemaValidacaoDocumentos
 **Padrão Usado:**
