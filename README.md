@@ -33,4 +33,7 @@ exercício.
 - Chain of Responsability
 
 **Justificativa:**
-- 
+- Eu utilizei o chain pois esse padrão possibilita a execução em cadeia de responsabilidades
+  no caso desse exercício era necessário verificar vários fatores de um documento
+  então em cada cadeia há a possibilidade de se executar uma operação se caso a outra for executada com sucesso
+  essa foi a ideia do exercício, executar tudo em uma cadeia.
