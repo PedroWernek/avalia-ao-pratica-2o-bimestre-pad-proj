@@ -4,7 +4,8 @@
 - Strategy
 
 **Justificativa:**
-- 
+- Nesse exercicio usei strategy pois esse padrão permite criar uma interface que execute de forma dinâmica os algoritimos pedidos pelo exercicio
+  então com o uso dele tipo a necessidade do usuário saber como vai funcionar o algoritimos e apenas executa-lo.
 
 ## EXERCICIO 2 - SistemaBancario
 **Padrão Usado:**
